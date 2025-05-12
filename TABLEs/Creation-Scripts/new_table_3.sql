@@ -1,0 +1,4 @@
+CREATE TABLE `new_table_3` (
+  `c1` int NOT NULL,
+  PRIMARY KEY (`c1`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
